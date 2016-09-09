@@ -1,1 +1,2 @@
 C:\Users\Sala12\Documents\Practica1\Practicavisual\Practica visual\Practica visual\bin\Debug\Practica visual.exe.config
+C:\Users\Sala12\Practica1\Practicavisual\Practica visual\Practica visual\bin\Debug\Practica visual.exe.config
